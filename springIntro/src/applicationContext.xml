@@ -9,7 +9,8 @@
 
 
 
-	<bean id="database" class="springIntro.MySqlCustomerDal">
+	<bean id="database" class="springIntro.CustomerDal">
+		<property name="connectionString" value="---Oracle String---"/>
 	</bean>
 	
 	<bean id="service" class="springIntro.CustomerManager">
