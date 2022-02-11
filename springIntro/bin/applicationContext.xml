@@ -9,7 +9,7 @@
 
 
 
-	<bean id="database" class="springIntro.MsSqlCustomerDal">
+	<bean id="database" class="springIntro.MySqlCustomerDal">
 	</bean>
 	
 	<bean id="service" class="springIntro.CustomerManager">

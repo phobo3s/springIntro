@@ -4,7 +4,7 @@ public class MySqlCustomerDal implements ICustomerDal{
 
 	@Override
 	public void add() {
-		System.out.println("MySql veritabanýna eklendi.");
+		System.out.println("MySql veritabanÄ±na eklendi.");
 		
 	}
 
