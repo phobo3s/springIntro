@@ -1,0 +1,13 @@
+package springIntro;
+
+public class CustomerDal implements ICustomerDal{
+	String connectionString;
+	
+	@Override
+	public void add() {
+		System.out.println("Connection String : " + this.connectionString);
+		System.out.println("Oracle veritabanına eklendi.");
+		
+	}
+	
+}
