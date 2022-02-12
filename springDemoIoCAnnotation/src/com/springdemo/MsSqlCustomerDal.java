@@ -1,9 +1,11 @@
 package com.springdemo;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 
 public class MsSqlCustomerDal implements ICustomerDal{
+	@Value("${database.connectionString}")
 	String connectionString;
 	
 	public String getConnectionString() {
@@ -15,8 +17,8 @@ public class MsSqlCustomerDal implements ICustomerDal{
 	}
 	@Override
 	public void add() {
+		System.out.println("Connection String : " + connectionString);
 		System.out.println("MsSql veritabanına eklendi.");
-		
 	}
 
 }

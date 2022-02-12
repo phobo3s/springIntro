@@ -8,9 +8,9 @@ public class Main {
 	public static void main(String[] args) {
 		AnnotationConfigApplicationContext context = 
 				new AnnotationConfigApplicationContext(IocConfig.class);
-		ICustomerDal cutomerDal = context.getBean("database",ICustomerDal.class);
+		ICustomerService cutomerService = context.getBean("service",ICustomerService.class);
 		
-		cutomerDal.add();
+		cutomerService.add();
 	}
 	
 	//IoC - Inversion of Control
