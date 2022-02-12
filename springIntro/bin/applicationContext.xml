@@ -8,9 +8,10 @@
 	http://www.springframework.org/schema/context/spring-context.xsd">
 
 
-
+	<context:property-placeholder location="classpath:values.properties"/>
+	
 	<bean id="database" class="springIntro.CustomerDal">
-		<property name="connectionString" value="---Oracle String---"/>
+		<property name="connectionString" value="${database.connectionString}"/>
 	</bean>
 	
 	<bean id="service" class="springIntro.CustomerManager">
