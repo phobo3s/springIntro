@@ -17,15 +17,18 @@ public class Main {
 		
 		session.beginTransaction();
 		
-		List<City> cities = session.createQuery("from City").getResultList();
+		//HQL - hibernate query language
+		//from City c where c.countryCode = 'TUR' Order By c.name DESC
+		//List<City> cities = session.createQuery("select City.countryCode from City c Group By c.countryCode").getResultList();
+		List<String> cCodes = session.createQuery("select c.countryCode from City c Group By c.countryCode").getResultList();
 		
 		session.getTransaction().commit();
 		
 		session.close();
 		factory.close();
 		
-		for (City city:cities) {
-			System.out.println(city.getName());
+		for (String city:cCodes) {
+			System.out.println(city);
 		}
 	
 	
