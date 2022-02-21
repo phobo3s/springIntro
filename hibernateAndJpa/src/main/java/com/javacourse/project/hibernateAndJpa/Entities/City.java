@@ -1,13 +1,22 @@
 package com.javacourse.project.hibernateAndJpa.Entities;
 
-import javax.persistance.Entity;
+import javax.persistence.*;
 
+@Entity
 @Table(name="city")
 public class City {
+	
+	@Id
+	@Column(name="ID")
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int id;
+	@Column(name="name")
 	private String name;
+	@Column(name="countryCode")
 	private String countryCode;
+	@Column(name="district")
 	private String district;
+	@Column(name="population")
 	private int population;
 	public City(int id, String name, String countryCode, String district, int population) {
 		super();
@@ -17,6 +26,7 @@ public class City {
 		this.district = district;
 		this.population = population;
 	}
+	
 	public int getId() {
 		return id;
 	}
