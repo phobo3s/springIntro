@@ -17,4 +17,9 @@ public class ProductsController {
 		return "Laptop - 51";
 	}
 	
+	@GetMapping("/anil")
+	public String get3() {
+		return "Çhopra";
+	}
+	
 }
