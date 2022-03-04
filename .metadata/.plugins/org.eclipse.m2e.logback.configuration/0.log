@@ -4368,3 +4368,75 @@ org.eclipse.core.runtime.CoreException: Launch configuration HibernateAndJpaAppl
 2022-03-04 16:37:17,722 [Worker-9: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-03-04 16:37:17,723 [Worker-9: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java_Code\Eclipse\hibernateAndJpa\src\test\resources
 2022-03-04 16:40:48,009 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-03-04 18:07:38,917 [Worker-34: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:07:38,918 [Worker-34: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:07:38,920 [Worker-34: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-04 18:07:38,981 [Worker-34: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-04 18:07:38,985 [Worker-34: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:07:38,986 [Worker-34: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:07:38,986 [Worker-34: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java_Code\Eclipse\hibernateAndJpa\src\test\resources
+2022-03-04 18:08:55,711 [Worker-39: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javacourse.project:hibernateAndJpa:0.0.1-SNAPSHOT @ C:\Java_Code\Eclipse\hibernateAndJpa\pom.xml.
+2022-03-04 18:08:56,762 [Worker-39: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:08:56,762 [Worker-39: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:08:56,766 [Worker-39: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-04 18:08:56,803 [Worker-39: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-04 18:08:56,809 [Worker-39: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:08:56,809 [Worker-39: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:08:56,809 [Worker-39: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java_Code\Eclipse\hibernateAndJpa\src\test\resources
+2022-03-04 18:15:23,895 [Worker-44: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:15:23,895 [Worker-44: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:15:23,897 [Worker-44: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-04 18:15:23,909 [Worker-44: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-04 18:15:23,913 [Worker-44: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:15:23,913 [Worker-44: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:15:23,913 [Worker-44: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java_Code\Eclipse\hibernateAndJpa\src\test\resources
+2022-03-04 18:20:31,974 [Worker-46: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:20:31,975 [Worker-46: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:20:31,977 [Worker-46: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-04 18:20:31,997 [Worker-46: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-04 18:20:32,000 [Worker-46: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:20:32,000 [Worker-46: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:20:32,000 [Worker-46: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java_Code\Eclipse\hibernateAndJpa\src\test\resources
+2022-03-04 18:22:07,911 [Worker-52: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:22:07,911 [Worker-52: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:22:07,913 [Worker-52: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-04 18:22:07,930 [Worker-52: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-04 18:22:07,934 [Worker-52: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:22:07,937 [Worker-52: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:22:07,937 [Worker-52: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java_Code\Eclipse\hibernateAndJpa\src\test\resources
+2022-03-04 18:42:10,525 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-04 18:42:21,943 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2022-03-04 18:42:37,469 [Worker-12: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:42:37,469 [Worker-12: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:42:37,473 [Worker-12: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-04 18:42:37,532 [Worker-12: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-04 18:42:37,538 [Worker-12: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:42:37,538 [Worker-12: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:42:37,538 [Worker-12: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java_Code\Eclipse\hibernateAndJpa\src\test\resources
+2022-03-04 18:43:25,728 [Worker-10: Launching Executing clean in C__Java_Code_Eclipse_hibernateAndJpa] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Java_Code\Eclipse\hibernateAndJpa
+2022-03-04 18:43:25,731 [Worker-10: Launching Executing clean in C__Java_Code_Eclipse_hibernateAndJpa] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-03-04 18:43:49,942 [Worker-8: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:43:49,942 [Worker-8: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:43:49,948 [Worker-8: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-04 18:43:49,954 [Worker-8: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-03-04 18:43:49,979 [Worker-8: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-04 18:43:49,979 [Worker-8: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-04 18:43:49,980 [Worker-8: Launching HibernateAndJpaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java_Code\Eclipse\hibernateAndJpa\src\test\resources
+2022-03-04 18:44:09,299 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-03-04 18:44:19,111 [Worker-9: Launching hibernateAndJpa (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Java_Code\Eclipse\hibernateAndJpa
+2022-03-04 18:44:19,112 [Worker-9: Launching hibernateAndJpa (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2022-03-04 18:48:49,784 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-03-04 18:48:54,334 [Worker-10: Launching hibernateAndJpa (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Java_Code\Eclipse\hibernateAndJpa
+2022-03-04 18:48:54,334 [Worker-10: Launching hibernateAndJpa (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2022-03-04 18:50:29,113 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-03-04 18:50:32,874 [Worker-14: Launching hibernateAndJpa (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Java_Code\Eclipse\hibernateAndJpa
+2022-03-04 18:50:32,875 [Worker-14: Launching hibernateAndJpa (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2022-03-04 18:54:29,243 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-03-04 18:54:32,950 [Worker-15: Launching hibernateAndJpa (8)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Java_Code\Eclipse\hibernateAndJpa
+2022-03-04 18:54:32,951 [Worker-15: Launching hibernateAndJpa (8)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2022-03-04 18:55:13,894 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-03-04 18:55:16,252 [Worker-19: Launching hibernateAndJpa (9)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Java_Code\Eclipse\hibernateAndJpa
+2022-03-04 18:55:16,252 [Worker-19: Launching hibernateAndJpa (9)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-03-04 18:55:27,128 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-03-04 18:55:31,562 [Worker-18: Launching hibernateAndJpa (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Java_Code\Eclipse\hibernateAndJpa
+2022-03-04 18:55:31,563 [Worker-18: Launching hibernateAndJpa (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
