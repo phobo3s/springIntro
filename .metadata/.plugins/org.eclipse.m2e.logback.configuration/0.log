@@ -4440,3 +4440,9 @@ org.eclipse.core.runtime.CoreException: Launch configuration HibernateAndJpaAppl
 2022-03-04 18:55:27,128 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2022-03-04 18:55:31,562 [Worker-18: Launching hibernateAndJpa (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Java_Code\Eclipse\hibernateAndJpa
 2022-03-04 18:55:31,563 [Worker-18: Launching hibernateAndJpa (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2022-03-05 10:42:19,787 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-05 10:42:30,882 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2022-03-05 11:03:48,066 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-05 11:03:59,177 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2022-03-05 15:50:08,902 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-05 15:50:19,800 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
