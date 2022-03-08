@@ -28,4 +28,6 @@
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="javax.swing.text.html.HTML"/>
     <fullyQualifiedTypeName name="com.javacourse.project.hibernateAndJpa.Business.IPageService"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
 </qualifiedTypeNameHistroy>
